@@ -81,16 +81,16 @@ const PROJECTS: Project[] = [
   },
   {
     id: "p4",
-    title: "Luxury Watch Commercial",
+    title: "Podcast Hook",
     category: "Commercial",
-    client: "Vacheron (Spec)",
-    year: "2023",
-    duration: "0:45",
+    client: "Value Talks",
+    year: "2026",
+    duration: "1:25",
     desc: "Elegance defined through precise macro shots and smooth camera motion.",
     fullDesc: "Focusing on the micro-movements of a high-end timepiece. The lighting setup was designed to emphasize every polished surface and mechanical heartbeat without distracting from the watch's simple elegance.",
-    image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=1200",
+    image: "https://i.postimg.cc/Z0tV5hMk/UUC-YL48nq-E-HD.jpg",
     accent: "brand-crimson",
-    videoUrl: "https://www.youtube.com/embed/PLsVWIVVW7E?si=s3yJ8jCl2n5zdrbb"
+    videoUrl: "https://www.youtube.com/embed/ujeSkJvKYtk?si=swC-wzqgHwOGXcnV"
   },
   {
     id: "p5",
