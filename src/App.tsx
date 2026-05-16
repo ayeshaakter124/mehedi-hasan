@@ -695,7 +695,7 @@ function ProjectDetailsModal({ project, onClose }: { project: Project, onClose: 
 
 function GalleryView({ onBack, onSelectProject }: { onBack: () => void, onSelectProject: (p: Project) => void, key?: string }) {
   const [filter, setFilter] = useState('Reels');
-  const categories = ['Reels', 'Commercial', 'YouTube', 'Motion Graphics'];
+  const categories = ['Reels', 'Commercial', 'Reak state', 'Motion Graphics'];
 
   const filteredProjects = PROJECTS.filter(p => p.category === filter);
 
